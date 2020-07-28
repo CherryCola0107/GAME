@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1595909087 source:d:\this is something\lonely journey to the southland\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<string>
+	<ctime>
+	<time.h>
+	<windows.h>
+	<Mmsystem.h>
+
